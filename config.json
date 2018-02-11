@@ -1,0 +1,22 @@
+{
+  "name": "SimpleUrlCheck",
+  "version": "1.0",
+  "description": "Simple URL check tool.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dancsee89/simpleUrlCheck"
+  },
+  "author": "Daniel Molnar",
+  "license": "GPL-3.0",
+  "environments": [
+      "dev",
+      "prod"
+  ],
+  "allowedRuntimeEnv": "cli",
+  "allowedFileExtensions": [
+      "csv"
+  ],
+  "resultFileName": "simpleUrlCheckResults",
+  "resultFileExtension": "html"
+}
